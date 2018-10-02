@@ -1,6 +1,6 @@
 ## Installation and Configuration
 
-### MySQL
+### MySQL 5.7
 
 #### Installation
 
@@ -10,7 +10,7 @@
 
 ##### Windows
 
-- [MySQL Installer 8](https://dev.mysql.com/downloads/windows/installer/8.0.html)
+- ~[MySQL Installer 8](https://dev.mysql.com/downloads/windows/installer/8.0.html)~
 
 <br/>
 
